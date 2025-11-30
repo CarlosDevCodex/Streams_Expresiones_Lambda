@@ -7,9 +7,7 @@ public static void main(String[] args) {
     -------------PRUEBA DEL CONSUMER----------------
     */
 
-    Consumer<String> consumer=(param)->{
-    System.out.println(param);
-    };
+    Consumer<String> consumer= System.out::println;
 
     consumer.accept("Hola m undo");
 

@@ -13,3 +13,6 @@
 | **BinaryOperator** | Recibe dos valores y retorna un valor del *mismo tipo*. | 2 valores (T, T) | 1 valor (T) |
 | **Runnable** | Ejecuta una tarea sin recibir ni retornar nada (usado en concurrencia). | Nada | Nada (`void`) |
 | **Callable** | Ejecuta una tarea, puede retornar un resultado y lanzar excepciones (usado en concurrencia). | Nada | 1 valor (V) |
+
+
+--------------------------------------

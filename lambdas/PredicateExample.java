@@ -4,7 +4,7 @@ public class PredicateExample {
 
   public static void main(String[] args) {
     /*
-       Recibe un valor  y devuelve  un booleano (true o false)
+       Recibe un valor y retorna un booleano (true o false)
     */
 
        Predicate<String>  predicate=(a)->{

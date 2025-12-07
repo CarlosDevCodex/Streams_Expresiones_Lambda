@@ -15,4 +15,3 @@
 | **Callable** | Ejecuta una tarea, puede retornar un resultado y lanzar excepciones (usado en concurrencia). | Nada | 1 valor (V) |
 
 
---------------------------------------
